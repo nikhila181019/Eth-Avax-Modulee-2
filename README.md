@@ -1,10 +1,10 @@
-# UmarContract DApp
+# NikhilContract Metacrafter Calculator
 
-This project is a decentralized application (DApp) that interacts with the UmarContract smart contract. The DApp allows you to view the owner's name and balance, as well as transfer ethers to the contract owner.
+This project represents a decentralized application (Calculator) that interfaces with the NikhilContract smart contract. The DApp offers functionalities for viewing the owner's name and balance, along with the capability to transfer ethers to the contract owner.
 
-## Description
+## Overview
 
-The UmarContract DApp is built using Hardhat and React. It consists of a smart contract written in Solidity and a React frontend that provides a user-friendly interface to interact with the contract. The smart contract handles the logic for retrieving the owner's name and balance, as well as transferring ethers to the owner. The React frontend displays the owner's information and provides a form to initiate a transfer.
+The NikhilContract is developed utilizing the Hardhat framework and React library. It comprises a Solidity-based smart contract and a React frontend that delivers a user-friendly interface for interacting with the contract. The smart contract encompasses the logic for fetching the owner's name and balance, as well as enabling ether transfers to the owner. Meanwhile, the React frontend showcases the owner's details and furnishes a form to initiate transfers.
 
 ## Getting Started
 
@@ -13,7 +13,7 @@ The UmarContract DApp is built using Hardhat and React. It consists of a smart c
 To download the project, you can clone the repository using the following command:
 
 ```
-git clone https://github.com/UmarKhan19/Eth-Proof-Intermediate-Module-2
+git clone https://github.com/Nikhil/Eth-Avax-Modulee2
 ```
 
 After cloning the repository, navigate to the project's root directory.
@@ -32,7 +32,7 @@ To run the DApp, follow these steps:
    npx hardhat node
    ```
 
-3. Deploy the UmarContract smart contract by running the deployment script:
+3. Deploy the NikhilContract smart contract by running the deployment script:
 
    ```
    npx hardhat run scripts/deploy.js --network localhost
@@ -53,15 +53,17 @@ To run the DApp, follow these steps:
    npm start
    ```
 
-   The DApp will be accessible in your web browser at `http://localhost:3000`.
+   The Calculatpr will be accessible in your web browser at `http://localhost:3000`.
 
-## Help
+   
 
-If you encounter any issues or have any questions, you can refer to the project's documentation or seek help from the project contributors.
+## Assistance
+
+Should you encounter any challenges or have inquiries, you can refer to the project's documentation or seek assistance from the project contributors.
 
 ## Authors
 
-- [Umar Khan](https://github.com/UmarKhan19)
+- [Nikhil Agarwal](https://github.com/Nikhila181019)
 
 ## License
 
