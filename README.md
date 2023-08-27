@@ -13,7 +13,7 @@ The NikhilContract is developed utilizing the Hardhat framework and React librar
 To download the project, you can clone the repository using the following command:
 
 ```
-git clone https://github.com/Nikhil/Eth-Avax-Modulee2
+git clone https://github.com/Nikhila181019/Eth-Avax-Modulee2
 ```
 
 After cloning the repository, navigate to the project's root directory.
